@@ -21,6 +21,5 @@ I also have a side job contributing to open-source projects, creating technology
     - 👁‍🗨 Digital Forensics </br>
     - 🐱‍👤 Cyber Security Analyst </br>
     - 🤖 Information Technology Audit </br>
-    - 😂 subscribe to my channel <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">AuditorzamaNow</a>  </br>
+    - 😂 subscribe to my channel <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">AuditorZamaNow</a>  </br>
 </details>
-
