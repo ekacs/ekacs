@@ -1,4 +1,5 @@
 ### Hi there 👋
+🤓 I am a learning enthusiast and still learning until now </br>
 👨‍💻 My job usually does internal audits including conducting fraud investigations, digital forensics, Information and Technology Audits, and cybersecurity analysis </br>
 🐱‍🚀 I also have a side job contributing to open-source projects, creating technology to elevate people, building machine learning apps and big data analytics projects </br>
 
@@ -6,9 +7,8 @@
 <details>
  <summary><strong>What i am still doing now?</strong></summary>
     - 😎 I am currently working in the field of internal audit, cyber audit and data analytics </br>
-    - 👯 I’m looking to collaborate on Automation Projects, Machine Learning Projects, IoT Projects, Cybersecurity Projects, and Android Apps. </br>
-    - 🤔 I’m looking for help with a master of programming. hehe </br>
-    - 🐱‍🏍 I'm still learning to empower the people around me
+    - 👯 I’m looking to collaborate on Machine Learning Projects, IoT Projects and Cybersecurity Awareness </br>
+    - 🐱‍🏍 I'm still learning to empower the people around me </br>
     - 📫 How to reach me just <a href="mailto:ekacsisfreeman@gmail.com">Email me!</a>  </br>
 
 </details>
