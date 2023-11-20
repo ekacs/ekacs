@@ -9,7 +9,7 @@ I am also passionate about contributing to open-source projects, creating techno
     - 👯 I’m looking to collaborate on Automation Projects, Machine Learning Projects, IoT Projects, Cybersecurity Projects, and Android Apps. </br>
     - 🤔 I’m looking for help with a master of programming. hehe </br>
     - 💬 Ask me about anything EXCEPT about girls 🙄 .</br>
-    - 📫 How to reach me: <a href="mailto:ekacsisfreeman@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me or perhaps just want to read my CV 😁 just <a href="mailto:ekacsisfreeman@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him/Cak </br>
 </details>
 
