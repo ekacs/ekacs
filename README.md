@@ -5,10 +5,10 @@
 ### Are U still curious? :
 <details>
  <summary><strong>What i am still doing now?</strong></summary>
-    - 🌱 I’m currently learning Python, C++, SQL, Java, XML, Android SDK </br>
+    - 😎 I am currently working in the field of internal audit, cyber audit and data analytics </br>
     - 👯 I’m looking to collaborate on Automation Projects, Machine Learning Projects, IoT Projects, Cybersecurity Projects, and Android Apps. </br>
     - 🤔 I’m looking for help with a master of programming. hehe </br>
-    - 🐱‍🏍 I'm learning to empower the people around me
+    - 🐱‍🏍 I'm still learning to empower the people around me
     - 📫 How to reach me just <a href="mailto:ekacsisfreeman@gmail.com">Email me!</a>  </br>
 
 </details>
@@ -23,3 +23,22 @@
     - 🤖 Information Technology Audit </br>
     - 😂 subscribe to my channel <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">AuditorZamaNow</a>  </br>
 </details>
+
+### Frequently used programming:
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    
+    
+ 
+</p>
+
