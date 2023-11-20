@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Eka 👨‍💻 My job usually does internal audits including conducting fraud investigations, digital forensics, Information and Technology Audits, and cybersecurity analysis
-I also have a side job contributing to open-source projects, creating technology to elevate people, building machine learning apps and big data analytics projects
+I'm Eka 👨‍💻 My job usually does internal audits including conducting fraud investigations, digital forensics, Information and Technology Audits, and cybersecurity analysis </br>
+I also have a side job contributing to open-source projects, creating technology to elevate people, building machine learning apps and big data analytics projects </br>
 
 ### Are U still curious? :
 <details>
