@@ -1,7 +1,7 @@
 ### Hi there 👋
 🤓 Call me Eka, I am a learning enthusiast and still learning until now </br>
 👨‍💻 My current job does internal audits including conducting fraud investigations, digital forensics, Information and Technology Audits, and cybersecurity analysis </br>
-🐱‍🚀 I also have a side job contributing to open-source projects, creating technology to elevate people, building machine learning apps and big data analytics projects </br>
+🐱‍🚀 I also have activity contributing to open-source projects, creating technology to elevate people, building machine learning apps, and big data analytics projects </br>
 
 ### Are U still curious? :
 <details>
