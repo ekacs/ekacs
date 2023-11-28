@@ -6,7 +6,7 @@
 ### Are U still curious? :
 <details>
  <summary><strong>What i am still doing now?</strong></summary>
-    - 😎 I am currently working in the field of internal audit, cyber audit and data analytics </br>
+    - 😎 I am currently working in the field of internal audit on government </br>
     - 👯 I’m looking to collaborate on Machine Learning Projects, IoT Projects and Cybersecurity Awareness </br>
     - 🐱‍🏍 I'm still learning to empower the people around me </br>
     - 📫 How to reach me just <a href="mailto:ekacsisfreeman@gmail.com">Email me!</a>  </br>
@@ -15,12 +15,13 @@
 
 <details>
  <summary><strong>What certified skills do I have ?</strong></summary>
+    - 🍳 Forensic Auditor </br>
     - 🕵️‍♀️ Investigation </br>
-    - 📚 Data Scientist </br>
-    - 🍳 Forensics Audit </br>
-    - 👁‍🗨 Digital Forensics </br>
-    - 🐱‍👤 Cyber Security Analyst </br>
     - 🤖 Information Technology Audit </br>
+    - 🐱‍👤 Cyber Security Analyst </br>
+    - 📚 Data Scientist Practitioner</br>
+    - 💻 Computer Forensics </br>
+    - 📲 Mobile Phone Forensics </br>
     - 😂 subscribe to my channel <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">AuditorZamaNow</a>  </br>
 </details>
 
