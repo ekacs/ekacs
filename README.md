@@ -6,7 +6,7 @@
 ### Are U still curious? :
 <details>
  <summary><strong>What i am still doing now?</strong></summary>
-    - 😎 I am currently working in the field of internal audit on government </br>
+    - 😎 I am currently working in government as an internal auditor </br>
     - 👯 I’m looking to collaborate on Machine Learning Projects, IoT Projects and Cybersecurity Awareness </br>
     - 🐱‍🏍 I'm still learning to empower the people around me </br>
     - 📫 Wanna to collab 😁 just <a href="mailto:ekacsisfreeman@gmail.com">Email me!</a>  </br>
