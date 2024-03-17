@@ -2,7 +2,7 @@
 🤓 Call me Eka, I am a learning enthusiast and still learning until now </br>
 👨‍💻 My current job does internal audits including conducting fraud investigations, digital forensics, Information and Technology Audits, and cybersecurity analysis </br>
 🐱‍🚀 I also have activity contributing to open-source projects, creating technology to elevate people, building machine learning apps, and big data analytics projects </br>
-When I'm free or confused I make video content on YouTube and Instagram, if you don't believe me, just visit my content, if the content is small it's because I'm busy hahaha... 😁 my channel <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">AuditorZamaNow</a>
+When I'm free or confused I make video content on YouTube and Instagram, if you don't believe me, just visit my content, if the content is small it's because I'm busy hahaha... 😁 search, follow and subscribe mine <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">@auditorzamannow</a>
 
 ### Are U still curious? :
 <details>
