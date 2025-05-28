@@ -1,8 +1,8 @@
 ### Hi there 👋
 🤓 Call me Eka, I am a learning enthusiast and still learning until now </br>
 👨‍💻 My work primarily involves internal audits, fraud investigations, digital forensics, forensic accounting, technology audits, and cybersecurity analysis </br>
-🐱‍🚀 In my spare time, I join community activities related to open-source projects related to data science, machine learning and/or cybersecurity projects </br>
-When I'm free or confused I make video content on YouTube and Instagram, if you don't believe me, just visit my content, if the content is small it's because I'm busy hahaha... 😁 search, follow and subscribe mine <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">@auditorzamannow</a>
+🐱‍🚀 In my spare time, I join community activities related to open-source projects related to data science, machine learning, and/or cybersecurity projects </br>
+😎 When I'm not busy, I make video content on YouTube and Instagram, if you don't believe me, visit my content, if the content is small it's because I'm busy hahaha... 😁 search, follow and subscribe mine <a href="https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw)https://www.youtube.com/channel/UC2Jvlgvg6bwGFw-CW-IP_xw">@auditorzamannow</a>
 
 ### Are U still curious? :
 <details>
