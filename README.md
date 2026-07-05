@@ -1,7 +1,7 @@
 ### Hi there 👋
 🤓 Call me Eka, I am a learning enthusiast and still learning until now </br>
 👨‍💻 My work primarily involves internal audits, data analytics, digital forensics, forensic audits, IT Audits, and cybersecurity analysis </br>
-🐱‍🚀 In my spare time, I join community activities related to open-source projects in data science, machine learning or AI projects </br>
+🐱‍🚀 In my spare time, I join community activities related to Open-Source/Private projects in data science, machine learning or AI projects </br>
 
 ### Are U still curious? :
 <details>
